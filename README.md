@@ -2,7 +2,7 @@
 
 
 
-# Introduction
+## Introduction
 
 A database was designed for an organisation providing a premium service for viewing luxury properties for sale in the UK.
 
